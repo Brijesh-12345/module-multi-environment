@@ -1,0 +1,5 @@
+ami          = "ami-0b6c6ebed2801a5cb"
+instance_type = "t2.micro"
+key_name     = "terra-key"
+db_username  = "admin"
+db_password  = "StrongDB#2026"
